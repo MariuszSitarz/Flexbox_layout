@@ -63,4 +63,4 @@ function sendBrowserNotification (title, body, icon, focusOnClick) {
         }
     }
 }
-//--------------------------------------------//
+
